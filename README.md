@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shohanmorol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shohanmorol" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shohan-morol-6612221ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shohanmorol" height="30" width="40" /></a>
 <a href="https://fb.com/shohanmorol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shohanmorol" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shohanmorol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shohanmorol" height="30" width="40" /></a>
 <a href="https://discord.gg/shohanmorol#0544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shohanmorol#0544" height="30" width="40" /></a>
