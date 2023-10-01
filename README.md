@@ -1,4 +1,4 @@
-![Software Engineer](https://github.com/MorolShohan/MorolShohan/blob/main/SHOHAN%20Morol%20Cover.png)
+![Software Engineer](https://github.com/MorolShohan/MorolShohan/blob/main/SHOHAN%20github.png)
 <h1 align="center">Hi 👋, I'm Shohan Morol</h1>
 <h3 align="center">A passionate Software Developer from Bangladesh.</h3>
 
