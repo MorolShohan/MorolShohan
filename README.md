@@ -1,4 +1,5 @@
-![Software Engineer](https://github.com/MorolShohan/MorolShohan/blob/main/SHOHAN%20github.png)
+![Software Engineer]![Yellow And Blue Modern Business LinkedIn Article Cover Image](https://github.com/MorolShohan/MorolShohan/assets/81808177/21b443fe-f518-42f4-a4ed-db1d0b8fc3f5)
+
 <h1 align="center">Hi 👋, I'm Shohan Morol</h1>
 <h3 align="center">A passionate Software Developer from Bangladesh.</h3>
 
