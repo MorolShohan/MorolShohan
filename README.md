@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morolshohan" alt="morolshohan" /></a> </p>
 
-- 🔭 I’m currently working on **NODE JS Ecosystem**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **ASP.NET, NODE JS ECOSYSTEM [NEST,NEXT,NODE,POSTGREE]**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **shohan.aiubcse@gmail.com**
 
