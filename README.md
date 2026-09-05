@@ -70,25 +70,6 @@ A real-time software system designed to analyse facial expressions and behaviour
 
 ---
 
-## 🚀 Current Learning & Focus
-
-<p align="center">
-
-| Area | Current Focus |
-|---|---|
-| 💻 Software Engineering | Software Architecture & Maintainable Systems |
-| 🔎 Program Analysis | Analysing & Understanding Software |
-| 🔐 Cybersecurity | Secure Software & Security Fundamentals |
-| ⚙️ Software Systems | Process-oriented & Event-driven Systems |
-| 🤖 Artificial Intelligence | AI & Multi-Agent Systems |
-| 🔗 System Integration | Distributed & Integrated Systems |
-| 🧠 Compilers | Compiler Construction |
-| 🎨 UX | User Experience Engineering |
-
-</p>
-
----
-
 ## 🛠️ Languages
 
 <p align="left">
