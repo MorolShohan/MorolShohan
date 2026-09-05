@@ -18,11 +18,6 @@ Software Engineer | MSc Computer Science & Engineering @ DTU 🇩🇰
   <img src="https://komarev.com/ghpvc/?username=morolshohan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=morolshohan&theme=algolia&row=1&column=7" alt="GitHub Trophies"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
