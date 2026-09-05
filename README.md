@@ -60,7 +60,7 @@ Current academic focus:
 ### 🇧🇩 American International University-Bangladesh — AIUB
 
 **BSc in Computer Science & Engineering**  
-**CGPA: 3.78 / 4.00**
+**CGPA: 3.8 / 4.00**
 
 ---
 
