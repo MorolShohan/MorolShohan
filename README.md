@@ -19,7 +19,6 @@ Software Engineer | MSc Computer Science & Engineering @ DTU 🇩🇰
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=morolshohan&theme=algolia&row=1&column=7" alt="GitHub Trophies"/>
   </a>
 </p>
