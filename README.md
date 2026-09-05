@@ -1,4 +1,4 @@
-![Yellow And Blue Modern Business LinkedIn Article Cover Image](https://github.com/MorolShohan/MorolShohan/assets/81808177/5cc84715-488e-40d2-8b22-60f17c846d0f)
+![Yellow And Blue Modern Business LinkedIn Article Cover Image](https://github.com/MorolShohan/MorolShohan/blob/main/git%20cover.png)
 
 
 <h1 align="center">Hi 👋, I'm Shohan Morol</h1>
